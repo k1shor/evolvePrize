@@ -9,7 +9,7 @@ let prizes = ["PEN", "OPTICAL MOUSE", "RECHARGE CARD"]
 let prizes_img = [
     "https://th.bing.com/th/id/OIP.-H2lqHQmzdMVrKTc_U8V3QHaHa?rs=1&pid=ImgDetMain",
     "https://www.quietpc.com/images/products/logitech-b100-large.jpg",
-    "https://3.bp.blogspot.com/-pxphRh2Sof0/VrfnZus47cI/AAAAAAAAAKE/cyQK4kd7Mh4/s1600/NTC%2BRecharge%2BCards.png"]
+    "https://i.ibb.co/s6VgKRP/topup.png"]
 
 let won = localStorage.getItem('evolve-result') ?
     JSON.parse(localStorage.getItem('evolve-result')) : []
